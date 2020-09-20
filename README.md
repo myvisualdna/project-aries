@@ -1,5 +1,7 @@
 ## Amazon Clone (E-commerce project)
 
+Live Demo: https://aries-project-firebase.web.app/
+
 ![Screenshot](screenshot.png)
 
 Technology used:
