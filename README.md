@@ -1,6 +1,6 @@
 ## Amazon Clone (E-commerce project)
 
-[screenshot.png]
+![Screenshot](screenshot.png)
 
 Technology used:
 
