@@ -29,4 +29,4 @@ Technologies used:
 - React Currency Format
 - Stripe (for payments integration)
 
-### Andres Nieves
+### Developed by Andres Nieves
