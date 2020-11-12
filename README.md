@@ -9,10 +9,12 @@ The challenge? I want Amazon running on my localhost.
 Live Demo: https://aries-project-firebase.web.app/
 
 
+
 ![Screenshot](screenshot.png)
 
-Technology used:
 
+
+Technologies used:
 - React
 - Firebase (auth & database)
 - Redux
@@ -27,4 +29,4 @@ Technology used:
 - React Currency Format
 - Stripe (for payments integration)
 
-#Andres Nieves
+# Andres Nieves
